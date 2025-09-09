@@ -8,7 +8,7 @@
                color: transparent; 
                font-weight: bold; 
                font-size: 32px;">
-    DARKSTACK TEAM | C35-DDOS BY TRẦN HÀO DEV
+    DARKSTACK TEAM | C35-DDOS BY TRẦN HÀO DEV 🚀
   </span>
 </h1>
 
