@@ -49,3 +49,7 @@ node C35ddos.js <target> <time> <rate> <thread> <proxy>
 <p align="center">
   <img src="https://i.imgur.com/H6imcyz.png" alt="Darkstack Logo" width="1000">
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dznWogD.jpeg" alt="Darkstack Logo" width="1000">
+</p>
