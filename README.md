@@ -36,18 +36,13 @@
 ## ⚙️ Cài đặt
 
 ```bash
-TẢI FILE CODE VỀ GIẢI GIẢI NÉN RA
-
-cd C35-DDOS-main
-
-cd C35-DDOS-main
 
 node C35ddos.js
 
 node C35ddos.js <target> <time> <rate> <thread> <proxy>
 ```
 <p align="center">
-  <img src="https://i.imgur.com/H6imcyz.png" alt="Darkstack Logo" width="1000">
+  <img src="https://i.imgur.com/NdGFU57.png" alt="Darkstack Logo" width="1000">
 </p>
 
 <p align="center">
